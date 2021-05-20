@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chatbot/static/css/main.46d5252b.chunk.css",
+    "main.js": "/chatbot/static/js/main.ad398313.chunk.js",
+    "main.js.map": "/chatbot/static/js/main.ad398313.chunk.js.map",
+    "runtime-main.js": "/chatbot/static/js/runtime-main.94fc0b69.js",
+    "runtime-main.js.map": "/chatbot/static/js/runtime-main.94fc0b69.js.map",
+    "static/js/2.927bfb08.chunk.js": "/chatbot/static/js/2.927bfb08.chunk.js",
+    "static/js/2.927bfb08.chunk.js.map": "/chatbot/static/js/2.927bfb08.chunk.js.map",
+    "static/js/3.7415b838.chunk.js": "/chatbot/static/js/3.7415b838.chunk.js",
+    "static/js/3.7415b838.chunk.js.map": "/chatbot/static/js/3.7415b838.chunk.js.map",
+    "index.html": "/chatbot/index.html",
+    "static/css/main.46d5252b.chunk.css.map": "/chatbot/static/css/main.46d5252b.chunk.css.map",
+    "static/js/2.927bfb08.chunk.js.LICENSE.txt": "/chatbot/static/js/2.927bfb08.chunk.js.LICENSE.txt",
+    "static/media/moodbotLOGO.965c2ada.svg": "/chatbot/static/media/moodbotLOGO.965c2ada.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94fc0b69.js",
+    "static/js/2.927bfb08.chunk.js",
+    "static/css/main.46d5252b.chunk.css",
+    "static/js/main.ad398313.chunk.js"
+  ]
+}
