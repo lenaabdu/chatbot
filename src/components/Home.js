@@ -22,7 +22,7 @@ const Home = () => {
     window.watsonAssistantChatOptions = {
          integrationID: "92d2807e-cf39-4bbd-9a9d-9cf7742ad786", // The ID of this integration.
         region: "eu-gb", // The region your integration is hosted in.
-        se   serviceInstanceID: "89a29d61-8d4c-48d5-bc53-1b64395a72f6", // The ID of your service instance.
+        serviceInstanceID: "89a29d61-8d4c-48d5-bc53-1b64395a72f6", // The ID of your service instance.
         element: element,
         showLauncher: false,
         onLoad: function (instance) {
